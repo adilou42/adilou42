@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently working as a Full-Stack developer
-- 🧑‍💻 Check out my portfolio: https://adil.yakdi.fr/
+- 🧑‍💻 Check out my portfolio: [adil.yakdi.fr](https://adil.yakdi.fr/)
 
 
 
